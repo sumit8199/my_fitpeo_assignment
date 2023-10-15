@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my_fitpeo_assignment/static/css/main.b939d988.css",
+    "main.js": "/my_fitpeo_assignment/static/js/main.66920112.js",
+    "static/js/787.39c3348c.chunk.js": "/my_fitpeo_assignment/static/js/787.39c3348c.chunk.js",
+    "index.html": "/my_fitpeo_assignment/index.html",
+    "main.b939d988.css.map": "/my_fitpeo_assignment/static/css/main.b939d988.css.map",
+    "main.66920112.js.map": "/my_fitpeo_assignment/static/js/main.66920112.js.map",
+    "787.39c3348c.chunk.js.map": "/my_fitpeo_assignment/static/js/787.39c3348c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b939d988.css",
+    "static/js/main.66920112.js"
+  ]
+}
